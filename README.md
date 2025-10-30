@@ -221,12 +221,3 @@ Este README está basado en el análisis completo del repositorio, incluyendo:
 - La estructura de archivos de UI generados por SquareLine Studio
 
 El sistema está diseñado para funcionar de manera autónoma incluso sin conexión móvil, mostrando datos en tiempo real en la consola, mientras que las funciones avanzadas (clima, ubicación, sincronización en nube) requieren la aplicación móvil.
-
----
-
-## Contacto
-Si tienes dudas o sugerencias, puedes contactarme al correo antonio.rms30@gmail.com
-
----
-
-Ride In - Conectando tecnología y pasión por las motocicletas 🏍️⚙️

@@ -1,9 +1,3 @@
-# README Completo para el Repositorio Ride In
-
-Basándome en el análisis del repositorio, aquí está el README mejorado y completo:
-
----
-
 # Ride In 🏍️⚙️
 
 ## Descripción del Proyecto
